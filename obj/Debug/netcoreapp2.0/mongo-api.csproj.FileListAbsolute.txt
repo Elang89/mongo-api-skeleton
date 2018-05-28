@@ -1,0 +1,11 @@
+C:\Users\elang\Documents\dev\C#\mongo-api\bin\Debug\netcoreapp2.0\mongo-api.deps.json
+C:\Users\elang\Documents\dev\C#\mongo-api\bin\Debug\netcoreapp2.0\mongo-api.runtimeconfig.json
+C:\Users\elang\Documents\dev\C#\mongo-api\bin\Debug\netcoreapp2.0\mongo-api.runtimeconfig.dev.json
+C:\Users\elang\Documents\dev\C#\mongo-api\bin\Debug\netcoreapp2.0\mongo-api.dll
+C:\Users\elang\Documents\dev\C#\mongo-api\bin\Debug\netcoreapp2.0\mongo-api.pdb
+C:\Users\elang\Documents\dev\C#\mongo-api\obj\Debug\netcoreapp2.0\mongo-api.csprojAssemblyReference.cache
+C:\Users\elang\Documents\dev\C#\mongo-api\obj\Debug\netcoreapp2.0\mongo-api.csproj.CoreCompileInputs.cache
+C:\Users\elang\Documents\dev\C#\mongo-api\obj\Debug\netcoreapp2.0\mongo-api.AssemblyInfoInputs.cache
+C:\Users\elang\Documents\dev\C#\mongo-api\obj\Debug\netcoreapp2.0\mongo-api.AssemblyInfo.cs
+C:\Users\elang\Documents\dev\C#\mongo-api\obj\Debug\netcoreapp2.0\mongo-api.dll
+C:\Users\elang\Documents\dev\C#\mongo-api\obj\Debug\netcoreapp2.0\mongo-api.pdb
